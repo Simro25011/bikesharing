@@ -37,4 +37,5 @@ Through some vizualations we will showcase with the data available to us :
 
 ![Summary](https://github.com/Simro25011/bikesharing/blob/main/images/Vizualization%20of%20tryips%20by%20weekdays%20with%20gender%20and%20usertype%20breakdown%20(1).png)
 
-
+Here is the link to view all of our vizualizations
+[https://public.tableau.com/app/profile/arnold.tchuente](https://public.tableau.com/app/profile/arnold.tchuente)
