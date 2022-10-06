@@ -27,12 +27,14 @@ Through some vizualations we will showcase with the data available to us :
 
 ### Trips by Gender (Weekday per Hour)
 
-![Trips by Gender (Weekday per Hour)](https://github.com/Simro25011/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+![Trips by Gender (Weekday per Hour)(https://github.com/Simro25011/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 ###  User Trips by Gender by Weekday Viz
 
 ![User Trips by Gender by Weekday Viz](https://github.com/Simro25011/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ## Summary
+
+![Summary](https://github.com/Simro25011/bikesharing/blob/main/images/Vizualization%20of%20tryips%20by%20weekdays%20with%20gender%20and%20usertype%20breakdown%20(1).png)
 
 
